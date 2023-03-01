@@ -1,1 +1,21 @@
 /* your code */
+table,td,th {
+text-align: left;
+border-collapse:collapse;
+padding: 10px;
+	color: grey;
+	
+	
+}
+th {
+background-color:navy;
+	color: white;
+}
+table{
+  order-collapse: collapse;
+  border-radius: 5px;
+  overflow: hidden;
+}
+#even_row{
+background-color: lightsteelblue;
+}
